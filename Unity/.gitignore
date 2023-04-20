@@ -1,0 +1,54 @@
+# General
+*.bak
+Thumbs.db
+*.log
+.idea/
+Desktop.ini
+Desktop.ini.meta
+.DS_Store
+
+# Unity3D general
+*.suo
+*.userprefs
+Library
+obj
+Temp
+Assets/UnityVS
+*.csproj
+*.sln
+[Aa]ssets/StreamingAssets/build_info
+/*.unitypackage
+
+# Signing
+PreloadSigningAlias.cs
+PreloadSigningAlias.cs.*
+
+# Build files
+*.sdf
+*.opensdf
+*.pdb
+/build-winstore/*
+/build-win/*
+/build-android/*
+/build-ios/*
+
+# Blender
+*.blend1
+*.blend1.meta
+*.blend2
+*.blend2.meta
+*.blend3
+*.blend3.meta
+*.blend4
+*.blend4.meta
+*.blend5
+*.blend5.meta
+
+# Visual Studio
+/.vs
+/.vsconfig
+/*/Packages/com.unity.asset-store-tools
+/Assembly-CSharp.csproj
+*.sln
+*.csproj.user
+*.vcxproj.user
